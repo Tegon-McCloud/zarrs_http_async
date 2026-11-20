@@ -2,6 +2,10 @@
 name = "zarrs_http_async"
 version = "0.1.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "A WASM-compatible and asynchronous HTTP store for zarrs"
+repository = "https://github.com/Tegon-McCloud/zarrs_http_async"
+readme = "README.md"
 
 [dependencies]
 async-trait = "0.1.92"
